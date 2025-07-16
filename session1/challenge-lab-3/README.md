@@ -2,7 +2,7 @@
 
 <br><br>
 
-**Project Name: Challenge-Lab1**
+**Project Name: Challenge-Lab3**
 
 <br><br>
 
