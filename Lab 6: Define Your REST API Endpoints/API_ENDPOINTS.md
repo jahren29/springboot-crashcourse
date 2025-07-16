@@ -1,3 +1,8 @@
+**Name: Jahren Hans Dayag** <br>
+**Project Title:** Lab 6 Define Your REST API Endpoints
+
+
+
 | Resources    | HTTP Verb | Resource URL                             | Use Case                                               |
 | ------------ | --------- | ---------------------------------------- | ------------------------------------------------------ |
 | Visitor      | POST      | /zoos/id/visitors/id/tickets/id          | Creating Ticket                                        |
